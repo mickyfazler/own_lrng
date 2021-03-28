@@ -1,0 +1,82 @@
+ls  			It shows all file and directory(folder)
+
+GUI- Graphics User Interface
+CLI= Command line interface
+
+pwd			(print working directory)     -->It will show current folder 
+cd 			Change directory		--> Going to another folder
+cd /			It will goes us to the root directory
+cd ..			Going back folder
+
+mkdir fazle		(Make Directory)It will create a folder named "fazle" on our current directory
+touch tas.txt		It will create a file named "tas.txt" on our current directory
+touch TAS.txt		"TAS.txt" ... REmember in linux tas.txt and TAS.txt both you can create on your current directory...But you can't do it on windows 
+touch .mik		It will create a hidden file....Normally or by "ls" command you will not show it
+ls -a			It will also show hidden folder
+
+mv 1.txt fazle		It will move "1.txt" on "fazle" folder
+
+cp 1.txt fazle  	It will copy "1.txt" and save it on "fazle" folder
+cp /root/Desktop/1.txt /root/Desktop/fazle		You also can give absolute path
+
+Linux have two type of user
+	1.REgular user		... In linux there might be multiple regular user....One regular user can't access another regular user home...He only get only his home...But if he use "sudo" and then give any command it will run as root user after using ...That means after "sudo" you can run any command and it will work as root user........If you type "sudo su" then all the command execute as root user...
+	2. Root user		...He can access any regular user home and he also can modify it....and also get access his home 
+
+$(dollar)  That means you are a regular user
+
+sudo
+sudo su    			Any regular user gets super user power..... You just need to put this before every command
+
+sudo apt-get update 		(for ubuntu 16 and after)		# It will update list of software we can run
+sudo apt update 		( after 18)
+
+sudo apt-get upgrade		It will install updated software  
+sudo get upgrade		It will install updated software   
+
+ls -R 		(R mean recursive)	It will show all the folder and file and if your subfolder contain any file or folder it will also show
+
+clear 			It will clear the window
+exit			It will close our terminal(OWN EXPLORE)
+
+history			It show all your history or command			(That's why don't type your password)
+
+echo "Fazle"  				It will type
+ printf "Fazle is the gratest"		It will also type		# Remember this is not a function  printf() This is false
+
+printf "Fazle is the gratest\n oolala"		\n means new line
+
+sudo apt install apache2		It will install apache2    You can install any software like this in linux
+
+
+ls -l 		it will show    --user-Group-Others
+
+			rw--r--r--		That means you can read,write and not execute(rw--),,,  By default Fazle is a group
+							Group user can read,but can't write and execute(r--)
+							Other's user(public) can read,but can't write and execute(r--)
+			drwxr 		means directory or folder
+			chmod  means Change file mode(read,write,execute permission)
+			Search on google about.....chmod calculator and give your permission and it gives number.....It gives number according to binary....
+			If you give read,write,execute that means 111 =7
+			If you give read,write "no" ,execute that means 101 =5
+			If you give read ,write "no" "no" ,execute that means 101 =4
+			I think you got it and you also can try another conbination 
+
+Changing file chmod		
+chmod 751 fazle.txt     		now you will see ----> -rwxr-x--x that means 		
+																			-rwr       user can read,write and execute
+																			-r-x       user can read, can't write and can execute
+																			---x       user can't read,write and can execute
+
+top			It will show which using more resources			press q for stoping these process	
+
+ps 			It list all the process
+ps-a 			It list all the process which is running background
+
+kill 1138(PID)				You can close any programme usin pid
+
+sudo su				 Now $ ->  # 			that means now I'm super user or root user
+
+apt install vim			It will install vim...Vim is a text editor
+
+vim fazle.txt			Now fazle.txt will open in vim text editor			First press "i"   it will show "INSERT" now you can write....After writing press "Escape"  then press ":q!" for exit or ":wq" for save and exit
