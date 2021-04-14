@@ -1,4 +1,4 @@
-How to completely Uninstall any software from your Computer | Remove Software Completely
+How to completely Uninstall any software from your Computer | Remove Software Completely***************************************************************************
 
 ====================================================
 Directory, Registry used in Video:
@@ -19,3 +19,4 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node
 
 %temp%
 temp
+*************************************************************************** end ***************************************************************************
