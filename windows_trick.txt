@@ -1,0 +1,21 @@
+How to completely Uninstall any software from your Computer | Remove Software Completely
+
+====================================================
+Directory, Registry used in Video:
+
+%programfiles%
+%programfiles(x86)%
+%appdata%
+
+Then open regedit:
+
+HKEY_CURRENT_USER\Software
+HKEY_LOCAL_MACHINE\SOFTWARE
+HKEY_USERS\.DEFAULT\Software
+
+64-bit system users will also need to check following extra key:
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node
+
+%temp%
+temp
