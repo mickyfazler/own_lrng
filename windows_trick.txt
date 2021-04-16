@@ -20,3 +20,11 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node
 %temp%
 temp
 *************************************************************************** end ***************************************************************************
+*******************************************Git slow****************************************************
+After installing Git and using git bash you computer slow solution:
+Run this three command on git bash--->
+git config --global core.preloadindex true
+git config --global core.fscache true
+git config --global gc.auto 256 
+
+*************************************************************************** end ***************************************************************************
