@@ -16,6 +16,8 @@ ls -a			It will also show hidden folder
 
 mv 1.txt fazle		It will move "1.txt" on "fazle" folder
 
+rm 1.txt 2.txt		It will rename 1.txt to 2.txt(OWN EXPLORE)
+
 cp 1.txt fazle  	It will copy "1.txt" and save it on "fazle" folder
 cp /root/Desktop/1.txt /root/Desktop/fazle		You also can give absolute path
 
