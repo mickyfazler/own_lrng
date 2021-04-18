@@ -28,3 +28,14 @@ git config --global core.fscache true
 git config --global gc.auto 256 
 
 *************************************************************************** end ***************************************************************************
+***************************************************************************Set vscode as default editor on git ***************************************************************************
+"git config --global core.editor "code --wait""
+
+git will not ask you for password again:Just paster your ssh repository
+
+git remote set-url origin git@github.com:mickyfazler/git_learning.git
+
+
+***************************************************************************Add git on vscode default terminal ON VSCODE***************************************************************************
+..put it on settings.json---->
+"terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe"
