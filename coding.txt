@@ -119,7 +119,7 @@ https://youtu.be/-w9mKbtsUyw
 
 
 ************************ID:19************************
-Matrix scaling in 2d and 3d
+Matrix scaling and rotation in 2d and 3d 
 
 This Playlist  https://youtube.com/playlist?list=PLrjkTql3jnm9cY0ijEyr2fPdwnH-0t8EY
 Math-1 Khata-4 page-(128-131)
