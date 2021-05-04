@@ -127,7 +127,9 @@ Math-1 Khata-4 page-(128-131)
 
 
 ************************ID:20************************
-
+Masking and hsv in opencv?
+https://youtu.be/uq7IIX4Ua3g
+https://youtu.be/2KknXPT5CzA
 
 
 
