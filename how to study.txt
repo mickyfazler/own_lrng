@@ -1,0 +1,39 @@
+********************************************************* Django series *********************************************************
+Django                  H:\Django                
+Django REst api         H:\Django Rest api
+Django project          H:\Django-Project
+
+javascript              D:\CWH\CWH JavaScript
+AJAX                    D:\AB Recently Downloaded\Ajax (Hindi)
+
+React JS                H:\React JS
+D:\CWH\ReactJS          D:\CWH\ReactJS
+React-Django Project    H:\Django-Project
+
+
+******************************************************** Machine learning ********************************************************
+Math 2nd paper 9th and 10 Chapter with OPENCV (indian ai production and murtaza)
+
+Mathematics for Machine Learning                D:\AB Recently Downloaded\Mathematics for Machine Learning
+                                                D:\AB Recently Downloaded\Mathematics of Machine Learning
+
+Machine learning Hindi                          D:\AB Recently Downloaded\Machine Learning Hindi (5 minutes engineering)
+
+Intro to Machine Learning (Udemy)               D:\AB Recently Downloaded\Intro to Machine Learning
+
+Indian Ai production                            F:\AiProduction
+Fahad hussain ML                                D:\Fahad\MLFahad
+Fahad hussain Dl                                D:\Fahad\Deep Learning Fahad                        
+Fahad hussain NLP                               Download
+
+Knowledge shelf ML                              H:\KS Machine Learning
+Knowledge shelf NLP                             Download
+
+Pytorch freecodecamp hindi                      D:\Pytorch         
+
+codewithharry Machine Learning                  D:\CWH\Machine Learning
+Andro-ng ML                                     D:\AB Recently Downloaded\Andro-ng-standford-machine-learning
+
+Tim nueral (network) and (ML & Ai ) ONE VIDEO                       H:\Tim tensorflow and ML and AI in one video      
+Tim nueral  Neural Network  with tensorflow playlist                H:\Tim neural network       
+Tim nueral     ML playlist                                          H:\tim ML
