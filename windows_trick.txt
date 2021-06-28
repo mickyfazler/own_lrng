@@ -39,3 +39,6 @@ git remote set-url origin git@github.com:mickyfazler/git_learning.git
 ***************************************************************************Add git on vscode default terminal ON VSCODE***************************************************************************
 ..put it on settings.json---->
 "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe"
+
+**************************************************************************Combine two wifi network *******************************
+First select two network and bridge connection......Then which network is less important just remove it from bridge
