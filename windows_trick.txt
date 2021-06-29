@@ -53,4 +53,23 @@ FN + up key
 FN + down key
 FN + -->
 FN + <-- 
+*************************************************************************** Amazing jupyter baby ***********************************************************************
+# Welcome to the New VS Code Notebook Experience! 
+
+Whether you're new to the notebook experience in VS Code or a seasoned user, we'd like you to know that our experience has been revamped to provide:
+* Deep integration with the overall VS Code experience, including the ability to use editor extensions like VIM
+* Extremely fast notebook load times
+* A pleasing new look and feel
+* Many bug fixes
+
+To learn more about this new notebook experience and get a tour around, click here:  
+https://github.com/microsoft/vscode-jupyter/wiki/Introducing-Native-Notebooks  
+  
+Please be sure to let us know what you think of the new experience by filing an issue in our [repo](https://github.com/microsoft/vscode-jupyter/issues/new/choose). You may also be prompted to fill out an optional survey along the way. We would love it if you took some time to respond!
+  
+
+## Sincerely,  
+### The Jupyter Extension Team at Microsoft
+
+
 *************************************************************************** ***********************************************************************
