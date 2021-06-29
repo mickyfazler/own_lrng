@@ -1,3 +1,4 @@
+*************************************************************************** ***********************************************************************
 How to completely Uninstall any software from your Computer | Remove Software Completely***************************************************************************
 
 ====================================================
@@ -28,7 +29,7 @@ git config --global core.fscache true
 git config --global gc.auto 256 
 
 *************************************************************************** end ***************************************************************************
-***************************************************************************Set vscode as default editor on git ***************************************************************************
+***************************************************************************Set vscode as default editor on git ***********************************************************************
 "git config --global core.editor "code --wait""
 
 git will not ask you for password again:Just paster your ssh repository
@@ -42,3 +43,14 @@ git remote set-url origin git@github.com:mickyfazler/git_learning.git
 
 **************************************************************************Combine two wifi network *******************************
 First select two network and bridge connection......Then which network is less important just remove it from bridge
+*************************************************************************** keyboard shortcut***********************************************************************
+FN + DELETE
+FN + iNSERT
+FN + Home
+FN + Page Up
+FN + Page Down
+FN + up key
+FN + down key
+FN + -->
+FN + <-- 
+*************************************************************************** ***********************************************************************
