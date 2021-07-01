@@ -72,4 +72,14 @@ Please be sure to let us know what you think of the new experience by filing an 
 ### The Jupyter Extension Team at Microsoft
 
 
+********To know if you ever connected any wifi********
+
+
+
+netsh wlan show profile
+netsh wlan show profile 'wifi name' key=clear
+
+here key content is the wifi password
+
+
 *************************************************************************** ***********************************************************************
