@@ -195,8 +195,8 @@ https://www.youtube.com/watch?v=nBFZ6LqMqoQ
 
 
 ************************ID:30************************
-
-
+Eulers formula--> e^ix=cos(x) + i sin(x)
+https://www.youtube.com/watch?v=LE2uwd9V5vw
 
 
 ************************ID:31************************
