@@ -295,8 +295,9 @@ https://youtu.be/T9DSBhBR_I4
 
 
 ************************ID:46************************
-
-
+Deletion from Binary Search Tree(BST)?
+To know how 'predecessor' and 'successor' works then saw from 03.48
+https://youtu.be/hL9RUD33nYs?t=228
 
 
 ************************ID:47************************
