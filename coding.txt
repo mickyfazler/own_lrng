@@ -318,7 +318,8 @@ https://www.youtube.com/watch?v=VFttxMbSSos&list=PLsFNQxKNzefJNztGGoQC-59UhSwIai
 
 
 ************************ID:50************************
-
+To know about __repr__ and __str__
+https://www.youtube.com/watch?v=aIdzBGzaxUo
 
 
 
