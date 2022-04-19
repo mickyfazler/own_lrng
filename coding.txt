@@ -326,6 +326,20 @@ https://www.youtube.com/watch?v=aIdzBGzaxUo
 
 
 ************************ID:51************************
+Some of the things you can watch
+            1.========Divide and Conquer Algorithm--> https://www.youtube.com/watch?v=I8w2XN0w-fQ&list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa&index=18
+            2.1.========Introduction to Greedy Techniques---->https://www.youtube.com/watch?v=v0eQ4nXJjsk&list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa&index=32
+            2.2.========Knapsack Problem---->https://www.youtube.com/watch?v=M79iHjAG1tg&list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa&index=33
+            3.========Introduction to Dynamic Programming | Greedy Vs Dynamic Programming ---->https://www.youtube.com/watch?v=0BhhiQGDbEA&list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa&index=46
+   (OPTINAL)4.========Dynamic Programming Explained With Example in Hindi ---->https://www.youtube.com/watch?v=gpb5eihMAKA
+            5.========0/1 Knapsack failed using Greedy approach---->https://www.youtube.com/watch?v=LveF2qwHrqU&list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa&index=47
+            6.========0/1 Knapsack Problem |Dynamic Programming---->https://www.youtube.com/watch?v=i8NqAEsZn54&list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa&index=48
+   (OPTINAL)7.========Dynamic Programming 🔥 Coin Change Problem ---->https://www.youtube.com/watch?v=-NTaXJ7BBXs
+ (IMPORTANT)8.========0_1 Knapsack Problem using Dynamic Programming 3 Methods to Visualise a DP Problem 🔥 Anuj Bhaiya---->https://www.youtube.com/watch?v=y6kpGJBI7t0
+ (IMPORTANT)9.========4 Principle of Optimality - Dynamic Programming introduction---->https://www.youtube.com/watch?v=5dRGRueKU3M
+ (IMPORTANT)10.========0_1 Knapsack - Two Methods - Dynamic Programming---->https://www.youtube.com/watch?v=nLmhmB6NzcM
+      
+ 
 
 
 
@@ -333,9 +347,8 @@ https://www.youtube.com/watch?v=aIdzBGzaxUo
 
 
 ************************ID:52************************
-
-
-
+Longest Common Subsequence (LCS) - Recursion and Dynamic Programming
+https://www.youtube.com/watch?v=sSno9rV8Rhg
 
 
 
