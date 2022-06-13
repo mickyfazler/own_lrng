@@ -361,7 +361,14 @@ https://www.youtube.com/watch?v=Gd92jSu_cZk  (OPTIONAL
 
 ************************ID:54************************
 
+how to reset windows quick access
 
+https://www.youtube.com/watch?v=qvLF1Cafxu4
+
+Cmd Commands :
+del /q /f %appdata%\Microsoft\Windows\Recent\*  
+del /q /f %appdata%\Microsoft\Windows\Recent\AutomaticDestinations\*
+del /q /f %appdata%\Microsoft\Windows\Recent\CustomDestinations\*
 
 
 
