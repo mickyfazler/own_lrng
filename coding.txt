@@ -374,7 +374,19 @@ del /q /f %appdata%\Microsoft\Windows\Recent\CustomDestinations\*
 
 
 ************************ID:55************************
+own explore:i am a GENIUS: boy  for thinking differently === apply one thing for another purpose
 
+for power saving you can do this step without unplugging your device(wifi adapter,keyboard,mouse)
+  for keyboard
+    disable
+      windows+r===ncpa.cpl--->just disable that adapter
+    enable
+      just click enable 
+  for keyboard/mouse
+    disable
+      remove keyboard/mouse from 'Control Panel\Hardware and Sound\Devices and Printers'
+    enable
+      go device manager->keyboards/(mice or other pointing device)->right click->scan for Hardware Changes
 
 
 
