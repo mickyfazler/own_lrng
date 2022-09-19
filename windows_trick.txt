@@ -43,7 +43,7 @@ git remote set-url origin git@github.com:mickyfazler/git_learning.git
 
 **************************************************************************Combine two wifi network *******************************
 First select two network and bridge connection......Then which network is less important just remove it from bridge
-*************************************************************************** keyboard shortcut***********************************************************************
+*************************************************************************** keyboard  light change shortcut***********************************************************************
 FN + DELETE
 FN + iNSERT
 FN + Home
