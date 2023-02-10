@@ -427,9 +427,6 @@ https://www.youtube.com/watch?v=bqZKirVojoc
 
 
 
-
-
-
 ************************ID:61************************
 
 
@@ -460,6 +457,9 @@ https://www.youtube.com/watch?v=bqZKirVojoc
 
 ************************ID:65************************
 
+
+Variance, Standard Deviation, Coefficient of Variation
+https://www.youtube.com/watch?v=wDAd_QHKoOg
 
 
 
