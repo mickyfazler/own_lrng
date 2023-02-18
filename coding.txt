@@ -473,10 +473,24 @@ https://m.youtube.com/watch?v=1Z10gPNADjI
 
 
 
+63.1->Introduction to Index Numbers|Simple Aggregative Method|
+https://www.youtube.com/watch?v=kfFU2xHbtPM
+63.2.->How to find antilog
+https://www.youtube.com/watch?v=bVbroBR2bBk
+63.3->Introduction to Simple Average of Price relatives Method
+https://www.youtube.com/watch?v=TVbafaVEd8M
+63.4->Questions of Simple Average of Price Relatives Method|
+https://www.youtube.com/watch?v=4K-tpzcOKZk
+
+
+
 
 
 ************************ID:64************************
 
+
+64->Introduction to Weighted Average of price relatives method|
+https://www.youtube.com/watch?v=f1RGPGJDnaY
 
 
 
@@ -495,13 +509,28 @@ https://www.youtube.com/watch?v=wDAd_QHKoOg
 ************************ID:66************************
 
 
-
+66.1->What is Hypothesis in Bengali: Meaning |
+https://www.youtube.com/watch?v=NW5yFAn24cE
+66.2->Types Of Errors in Bengali : Type I Error
+https://www.youtube.com/watch?v=0KqtIw47Un8
+66.3.1->One Tailed and Two Tailed test in Bengali 
+https://www.youtube.com/watch?v=_WA4Ab8o-8U
+66.3.2->What is Statistics & Parameters in Bengali 
+https://www.youtube.com/watch?v=nvxYRg7UiJc
+66.4.1->Chi Square Test in Bengali 
+Chi Square Test in Bengali 
+https://www.youtube.com/watch?v=xPPiMx1Zekw
+66.4.2->Parametric and Non Parametric Test in Bengali :
+https://www.youtube.com/watch?v=EUOfsA16Qx4
 
 
 
 ************************ID:67************************
 
 
+
+67->Z Test in Bengali: How to test significance of two means 
+https://www.youtube.com/watch?v=NCedYgfzsiM
 
 
 
@@ -511,11 +540,19 @@ https://www.youtube.com/watch?v=wDAd_QHKoOg
 
 
 
+68->T test in Bengali : Student's T-test 
+https://www.youtube.com/watch?v=qQnPmKcFpJ4
+
+
 
 
 ************************ID:69************************
 
 
+
+
+69->What is Skewness in Bengali : Types of Skewness 
+https://www.youtube.com/watch?v=skLGkdICKp0
 
 
 
@@ -524,6 +561,9 @@ https://www.youtube.com/watch?v=wDAd_QHKoOg
 
 
 
+
+70 ->What is Kurtosis in Bengali : Types of Kurtosis 
+https://www.youtube.com/watch?v=B4o3fI3JnG4
 
 
 
