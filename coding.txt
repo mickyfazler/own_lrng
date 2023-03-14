@@ -602,8 +602,14 @@ https://www.youtube.com/watch?v=bMccdk8EdGo
 
 
 ************************ID:75************************
+75.1
+p-values: What they are and how to interpret them
+https://www.youtube.com/watch?v=vemZtEM63GY
 
 
+75.2
+How to calculate p-values
+https://www.youtube.com/watch?v=JQc3yx0-Q9E
 
 
 
