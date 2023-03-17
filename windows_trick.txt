@@ -118,7 +118,7 @@ when try to backup just paste and replace .....but paste don't work 😁 here ..
 robocopy %appdata%\microsoft\windows\recent\automaticdestinations "C:\TempQA"
 
 4.restore bb 
-go to "C:\TempQA" and paste 'f01b4d95cf55d32a.automaticDestinations-ms' here your paste will work baby 😁
+go to "C:\TempQA" and paste 'f01b4d95cf55d32a.automaticDestinations-ms' {and replace} here your paste will work baby 😁
 robocopy "C:\TempQA" %appdata%\microsoft\windows\recent\automaticdestinations *.automaticDestinations-ms
 https://www.thewindowsclub.com/backup-restore-quick-access-folders-windows-10 
 
