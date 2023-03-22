@@ -665,7 +665,28 @@ https://www.youtube.com/watch?v=2kg1O0j1J9c
 ************************ID:78************************
 
 
+78.1
+Change of base formula | Logarithms | Algebra II | Khan Academy
+https://www.youtube.com/watch?v=OkFdDqW9xxM
 
+78.2
+Derivative of log with arbitrary base
+https://www.youtube.com/watch?v=ssz6TElXEOM
+
+78.3
+Derivatives of Logarithmic Functions ln(u)            
+        ->just use change role when can't do 😂 .....remember 
+https://youtu.be/8F5ZXmZ2dZA
+
+78.4
+Derivative of Logarithmic Functions
+(NOTE: you can also do it using chain rule.... you can do it like 78.3 chain rule.....GENIUS:bb)
+https://www.youtube.com/watch?v=Dp9sgIvaKPk
+
+
+78.5
+When and How to apply Logarithmic Differentiation
+https://www.youtube.com/watch?v=A9ushV2ojAM
 
 
 
