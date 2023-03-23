@@ -1,6 +1,47 @@
 https://quotefancy.com/albert-einstein-quotes/page/2
 1 to 134 is ccompleted
 https://github.com/AzharFahim
+
+
+************************ID:s************************
+StatQuest -> Statistics Fundamentals
+https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9
+    ===my own number/index for screenshots
+  
+
+s.39    Probability is not Likelihood. Find out why!!!
+https://www.youtube.com/watch?v=pYxNSUDSFH4
+
+s.40    Maximum Likelihood, clearly explained!!! 
+https://www.youtube.com/watch?v=XepXtl9YKwc
+
+76.3.0      log ও ln এর পার্থক্য (if you forget 😂)
+https://www.youtube.com/watch?v=F4e3B0gehu0
+
+
+s.41
+Maximum Likelihood for the Exponential Distribution, Clearly Explained!!!      
+https://www.youtube.com/watch?v=p3T-_LMrvBc
+
+s.43
+Maximum Likelihood for the Binomial Distribution, Clearly Explained!!!     
+https://www.youtube.com/watch?v=4KKV9yZCoM4
+
+
+s.44 
+Maximum Likelihood For the Normal Distribution, step-by-step!!!
+https://www.youtube.com/watch?v=Dn6b9fCIUpM
+
+
+
+
+
+
+
+
+
+
+
 ************************ID:1************************
 What is alpha channel? 
 https://youtu.be/pURFioF91e8
@@ -616,10 +657,10 @@ https://www.youtube.com/watch?v=JQc3yx0-Q9E
 
 ************************ID:76************************
 
-    76.1    Probability is not Likelihood. Find out why!!!(statques statistics 39 No video on MY COMPUTER)
+    76.1    Probability is not Likelihood. Find out why!!!(statquest statistics 39 No video on MY COMPUTER)
     https://www.youtube.com/watch?v=pYxNSUDSFH4
     
-    76.2    Maximum Likelihood, clearly explained!!! (statques statistics 40 )
+    76.2    Maximum Likelihood, clearly explained!!! (statquest statistics 40 )
     https://www.youtube.com/watch?v=XepXtl9YKwc
     
     76.3.0      log ও ln এর পার্থক্য (if you forget 😂)
