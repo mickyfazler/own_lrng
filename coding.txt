@@ -742,8 +742,11 @@ https://www.youtube.com/watch?v=upVJ4YqTlC4
     79.1.2
     পোকার খেলার সঠিক নিয়ম | Poker Bangla (5 Card Draw) | Protidin Protiniyoto
     https://www.youtube.com/watch?v=yfuPyfZYbPE
-
-
+    
+    
+79.2
+Fisher's Exact Test and the Hypergeometric Distribution
+https://www.youtube.com/watch?v=udyAvvaMjfM
 
 
 ************************ID:80************************
