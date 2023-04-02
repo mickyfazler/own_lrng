@@ -765,6 +765,60 @@ https://youtu.be/BQrQBnsKUOU
 
 ************************ID:81************************
 
+81.1
+Expected Value: E(X)
+https://www.youtube.com/watch?v=j__Kredt7vY
+
+
+81.2
+Expected value of binomial distribution | Probability and Statistics | Khan Academy
+https://www.youtube.com/watch?v=SqcxYnNlI3Y
+
+
+81.3
+Binomial Distribution Mean and variance (proof)
+https://youtu.be/orSd-geX0KU
+    variance formula can be found on (book -> M-2 K- P-403 {A})
+
+
+81.4
+Class 12th – Overview of Mean and Variance of Binomial Distribution | Probability | Tutorials Point
+https://www.youtube.com/watch?v=TvnEOLK8FTE
+
+
+81.5
+Finding the mean and standard deviation of a binomial random variable | AP Statistics | Khan Academy
+https://www.youtube.com/watch?v=gro5b3PZ-Bw
+
+
+81.6
+Class 12th – Mean and Variance of Binomial Distribution Problem-1 | Probability | Tutorials Point
+https://www.youtube.com/watch?v=paA4txmFg1A
+
+
+81.7
+Class 12th – Mean and Variance of Binomial Distribution Problem-2 | Probability | Tutorials Point
+https://www.youtube.com/watch?v=a4AXHEB-MKc
+
+
+81.8
+Class 12th – Mean and Variance of Binomial Distribution Problem-3 | Probability | Tutorials Point
+https://www.youtube.com/watch?v=eAY1ARVkmwk
+
+
+
+
+---
+81.9
+|| What is Continuity Correction and how to manage it?||
+https://youtu.be/xhdeE7Bd4qE
+
+
+81.10
+Continuity Corrections
+https://www.youtube.com/watch?v=YC2ruKn02pE
+    to understand first see normal distribution calculation GO TO😝-->: coding.txt ->62.1.1 || 
+
 
 
 
