@@ -564,8 +564,14 @@ https://www.youtube.com/watch?v=NW5yFAn24cE
 https://www.youtube.com/watch?v=0KqtIw47Un8
 66.3.1->One Tailed and Two Tailed test in Bengali 
 https://www.youtube.com/watch?v=_WA4Ab8o-8U
+
+
 66.3.2->What is Statistics & Parameters in Bengali 
 https://www.youtube.com/watch?v=nvxYRg7UiJc
+    66.3.2.1
+    What are degrees of freedom?!? Seriously.               https://www.youtube.com/watch?v=N20rl2llHno
+
+
 66.4.1->Chi Square Test in Bengali 
 Chi Square Test in Bengali 
 https://www.youtube.com/watch?v=xPPiMx1Zekw
@@ -839,6 +845,9 @@ Standard Deviation/Varince formula proof        https://youtu.be/9EgRztlWQH4
 
 ************************ID:83************************
 
+83
+Basic probability: Joint, marginal and conditional probability | Independence
+https://youtu.be/SrEmzdOT65s
 
 
 
@@ -846,6 +855,15 @@ Standard Deviation/Varince formula proof        https://youtu.be/9EgRztlWQH4
 
 ************************ID:84************************
 
+84.1
+What is the Chi-Squared distribution? Extensive video!          https://www.youtube.com/watch?v=80ffqpZdKiA
+
+
+84.2
+Chi-squared Goodness of Fit Test! Extensive video!              https://www.youtube.com/watch?v=ZNXso_riZag
+
+84.3
+Chi-squared Test for Independence! Extensive video!         https://www.youtube.com/watch?v=NTHA9Qa81R8
 
 
 
