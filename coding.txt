@@ -879,8 +879,9 @@ Chi-squared Test for Independence! Extensive video!         https://www.youtube.
 
 ************************ID:85************************
 
+Understanding Flexbox in React Native
 
-
+https://youtu.be/7_yRrrDMCwQ
 
 
 
