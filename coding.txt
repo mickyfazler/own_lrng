@@ -896,7 +896,7 @@ https://youtu.be/7_yRrrDMCwQ
 ************************ID:87************************
 
 
-
+Modeling Relationships in GraphQL | AppSync | Amplify | AWS | Angular         https://youtu.be/eUQvsuO6EnU
 
 
 
