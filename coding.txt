@@ -902,7 +902,7 @@ Modeling Relationships in GraphQL | AppSync | Amplify | AWS | Angular         ht
 
 ************************ID:88************************
 
-
+The Five Number Summary, Boxplots, and Outliers (1.6)                https://youtu.be/tpToLyZibKM
 
 
 
@@ -910,7 +910,7 @@ Modeling Relationships in GraphQL | AppSync | Amplify | AWS | Angular         ht
 ************************ID:89************************
 
 
-
+Seaborn clustermap | How the clustermap works and what is the clustermap?            https://youtu.be/crQkHHhY7aY
 
 
 
