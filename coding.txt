@@ -923,7 +923,7 @@ Seaborn clustermap | How the clustermap works and what is the clustermap?       
 
 
 
-
+how to insert mathematical equation in Jupyter Notebook       https://youtu.be/ZOgoMbt26BU
 
 
 ************************ID:92************************
