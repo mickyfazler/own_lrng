@@ -935,6 +935,14 @@ Understanding Statistical Inference - statistics help        https://youtu.be/tF
 
 ************************ID:93************************
 
+93.1
+Quantiles and Percentiles, Clearly Explained!!!
+https://www.youtube.com/watch?v=IFKQLDmRK0Y
+
+93.2
+Quantile-Quantile Plots (QQ plots), Clearly Explained!!!
+https://www.youtube.com/watch?v=okjYjClSjOg
+
 
 
 
