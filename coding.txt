@@ -8,6 +8,10 @@ StatQuest -> Statistics Fundamentals
 https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9
     ===my own number/index for screenshots
   
+s.36        
+Quantiles and Percentiles, Clearly Explained!!!
+    https://www.youtube.com/watch?v=IFKQLDmRK0Y
+
 
 s.39    Probability is not Likelihood. Find out why!!!
 https://www.youtube.com/watch?v=pYxNSUDSFH4
@@ -936,8 +940,7 @@ Understanding Statistical Inference - statistics help        https://youtu.be/tF
 ************************ID:93************************
 
 93.1
-Quantiles and Percentiles, Clearly Explained!!!
-https://www.youtube.com/watch?v=IFKQLDmRK0Y
+see GO TO😝-->: coding.txt ->ID:s.36 baby 
 
 93.2
 Quantile-Quantile Plots (QQ plots), Clearly Explained!!!
