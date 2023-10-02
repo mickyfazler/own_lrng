@@ -908,8 +908,8 @@ Modeling Relationships in GraphQL | AppSync | Amplify | AWS | Angular         ht
 
 The Five Number Summary, Boxplots, and Outliers (1.6)                https://youtu.be/tpToLyZibKM
 
-
-
+zstatistics baby
+Range | Interquartile Range (IQR) | Box and whisker plot                    https://www.youtube.com/watch?v=qcTcsEdMgBo
 
 ************************ID:89************************
 
@@ -982,7 +982,8 @@ Bimodal Distribution | Statistics       https://youtu.be/EBnJYhkR2_I?t=84
 ************************ID:97************************
 
 
-
+What is COVARIANCE?                 https://www.youtube.com/watch?v=mG__Wpp9dns
+Range | Interquartile Range (IQR) | Box and whisker plot     https://www.youtube.com/watch?v=qcTcsEdMgBo
 
 
 
