@@ -990,7 +990,12 @@ Range | Interquartile Range (IQR) | Box and whisker plot     https://www.youtube
 ************************ID:98************************
 
 
-
+GENIUS: baby
+(M-1 K-3 P-{79-82})
+Finding the Slope of a Line         -> https://youtu.be/KFsfyg0t70s
+Modulus Function - Graph                ->https://youtu.be/tmPJdARPMS4
+GO TO😝-->: coding.txt ->ID:12 ..... specially 6.10-6.59
+Why is the absolute value function not differentiable?          ->https://youtu.be/VpEZKqhwbF8
 
 
 
