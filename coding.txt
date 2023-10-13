@@ -1005,7 +1005,11 @@ Why is the absolute value function not differentiable?          ->https://youtu.
 
 
 
-
+to understand
+    Column Vectors - Corbettmaths           https://youtu.be/h02d922Q5wk
+    Vectors(2-D, 3-D, n-D) | Row Vector | Column Vector  https://www.youtube.com/watch?v=Eqi20D-b2sU    
+MAIN
+    Transpose of a vector | Matrix transformations     https://youtu.be/lSoaMCNKfAg     
 
 
 
