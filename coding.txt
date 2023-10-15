@@ -1016,7 +1016,12 @@ MAIN
 
 ************************ID:100************************
 
+you can choose what subtitle and audiotrack to use 
+    https://mkvtoolnix.download/downloads.html      (this learned by myself ..... super GENIUS:)
+you can extract subtitle from video 
+    https://sourceforge.net/projects/gmkvextractgui/
 
+learned from here     https://wave.video/blog/extract-subtitles-mkv-video/
 
 
 
