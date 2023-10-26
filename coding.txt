@@ -1034,6 +1034,27 @@ learned from here     https://wave.video/blog/extract-subtitles-mkv-video/
 ************************ID:101************************
 
 
+yt-dlp baby...next time download video,subtitle with '1.xx' name and subtitle embaded GENIUS:
+
+NOTE: using .vtt because `Keep in mind that not all videos on YouTube provide subtitles in "srt" format, and you may encounter "vtt" subtitles more frequently, especially for newer content. WebVTT is a MODERN AND WIDELY SUPPORTED SUBTITLE format, so it should work with most video players and platforms.` ..... so upgrate to new baby ..... and it works same as .smi or .srt
+
+
+
+yt-dlp -o"%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s" "https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0"
+       -> worked          only download video XX
+
+yt-dlp --write-sub --sub-lang en --skip-download  -o"%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s" "https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0"
+    -> worked          only download subtitle but name don't like XX
+
+yt-dlp --write-sub --sub-lang en --skip-download  -o"%(playlist)s/%(playlist_index)d.%(title)s.%(ext)s" "https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0"
+    -> worked      own explore: GENIUS: 
+    ->only download subtitle(english) from playlist and give name with index number 
+
+    NOTE:own explore: if your video file is '1.mp4' and subtitle is '1.en.vtt' ..... if you think it won't play subtitle it's WRONG ..... it will automatically load subtitle despite name isn't same ..... wow 😁
+yt-dlp --write-sub --sub-lang en  --embed-subs  -o"%(playlist)s/%(playlist_index)d.%(title)s.%(ext)s" "https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0"
+    -> worked      own explore: GENIUS:
+    ->it will automatically download video ,give number like 1,download and embed subtitle with it
+
 
 
 
