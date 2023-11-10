@@ -1109,8 +1109,12 @@ Algebra 43 - Types of Linear Systems in Three Variables       https://www.youtub
 
 
 07. Position Vector | অবস্হান ভেক্টর | OnnoRokom Pathshala     https://www.youtube.com/watch?v=QXZrdCyhlxo
+    what he told in this video is not correct. GENIUS:
 
+Position vector is used to help us find the LOCATION OF ONE OBJECT RELATIVE TO ANOTHER OBJECt. Position vectors USUALLY START at the ORIGIN and then terminate at any other arbitrary point. Thus, these vectors are used to determine the position of a particular point with reference to its origin.
 
+can position vector define another point instead of origin point?
+        yes (ask chatgpt GENIUS:)
 
 
 
