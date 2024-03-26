@@ -1256,7 +1256,8 @@ How to Import MBOX to Gmail Without Thunderbird | Updated 2024              http
 ************************ID:114************************
 
 
-
+powerRename 
+https://www.youtube.com/watch?v=8AYkfqFc40Y (that regular expression ... select at the end of the file)
 
 
 
