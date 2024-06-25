@@ -1358,11 +1358,18 @@ https://www.youtube.com/watch?v=TvKXSdRc3nI
 
 
 ************************ID:122************************
+nderstand secondary indexes in DBMS
+first GO TO😝-->: coding.txt ->ID:121
+2nd GO TO😝-->:codeStepReact QA-->25 and Read the definition and see just 1st point  
 
 
-
-
-
+Lec-93: Why Indexing is used --> https://youtu.be/watch?v=E--yzX05_k8
+Lec-96: Types Of Indexes--> https://youtu.be/vjrHiaIfOl8
+Lec-97: Primary Index With Example    https://youtu.be/4E-MGnjMhRw
+Lec-98: Clustered Index in Database with Example -->https://youtu.be/watch?v=UpJ9ICmzaAM
+Lec-99: Secondary Index in Database with Example --> https://youtu.be/watch?v=Ua08uVgsk4k
+Now you can read the full QA GO TO😝-->:codeStepReact QA-->25 If you want to.😁(freedom)
+ 
 
 
 
