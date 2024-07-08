@@ -1378,7 +1378,32 @@ Now you can read the full QA GO TO😝-->:codeStepReact QA-->25 If you want to.�
 
 ************************ID:123************************
 
+5.UI thread & Worklet --> https://youtu.be/0vUFdFVa1xc
+6.runOnJS & runOnUI -->https://www.youtube.com/watch?v=XXhBhwoc5gQ
+7.useSharedValue , useDerivedValue & useAnimatedStyle --> https://youtu.be/Hu6jjjHItv8 
+14.useAnimatedReaction --> https://youtu.be/Wr0mY6S8ssA
+withtiming 
+    --> GO TO😝-->: D:\Coding Playground\AI Chats\9.Animate_Opacity_with__withTiming_.md
+transform in css  
+      --> GO TO😝-->: D:\Coding Playground\Yahoo baba CSS Code\56.html and 56.1.html
+rotate(rotateX(), rotateY(), rotateZ()) in css
+  -->https://www.youtube.com/watch?v=tD5BBCLssr0&t=0s
+  -->  great way visualization is at 
+        D:\Coding Playground\not.just.dev code bb\Devember Code\Devembery\srcy\componentsy\Day6c\TinderCardc.tsx
+withSpring 
+  --> GO TO😝-->:D:\Coding Playground\AI Chats\11.Spring_Animations_in_React_Native.md
 
+interpolate in React Native animation 
+    --> GO TO😝-->:https://youtu.be/7v4hs_XKsiY  and 
+    D:\Coding Playground\AI Chats\10.Interpolate_in_React_Native.md
+
+absoluteFillObject --> GO TO😝-->:D:\Coding Playground\AI Chats\12.absoluteFillObject.md
+
+Math.Sign 
+    -->D:\Coding Playground\Extra code\Javascript Extra Code\8.Math.Sign.md
+
+z-index don't work  
+  --> D:\Coding Playground\Extra code\Javascript Extra Code\9.zindex-fuckYou.html
 
 
 
