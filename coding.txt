@@ -1496,7 +1496,8 @@ his notebook https://github.com/codebasics/deep-learning-keras-tf-tutorial/blob/
 
 ************************ID:132************************
 
-
+Conditional Probability with Easiest Explanation & Example
+https://youtu.be/dQ6RL8qe320
 
 
 
