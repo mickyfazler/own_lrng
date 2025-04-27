@@ -1484,7 +1484,10 @@ https://youtu.be/p3HbBlcXDTE
 
 
 ************************ID:131************************
+Precision, Recall, F1 score, True Positive|Deep Learning Tutorial 19 (Tensorflow2.0, Keras & Python)
+https://youtu.be/2osIZ-dSPGE
 
+his notebook https://github.com/codebasics/deep-learning-keras-tf-tutorial/blob/master/12_precision_recall/12_precision_recall.ipynb 
 
 
 
