@@ -1540,9 +1540,9 @@ https://youtu.be/TPqr8t919YM
 
 ************************ID:137************************
 
+Why Multicollinearity is Bad? What is Multicollinearity? How to detect and remove Multicollinearity
 
-
-
+https://www.youtube.com/watch?v=sVJW5UXe84s
 
 
 
