@@ -1617,7 +1617,7 @@ Probability - Mutually Exclusive Events - Example | Don't Memorise https://youtu
 
 
 
-
+multinomial distribution ==> "D:\Coding Playground\ML Code\Build LLM Code\Chats\4.Multinomial bb.md"
 
 
 
