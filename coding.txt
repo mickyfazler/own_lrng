@@ -1625,6 +1625,37 @@ multinomial distribution ==> "D:\Coding Playground\ML Code\Build LLM Code\Chats\
 
 
 
+Basics 
+    Trigonometric Functions: Sine, Cosine, Tangent, Cosecant, Secant, and Cotangent
+    https://youtu.be/cqIZue-plBI?list=PLybg94GvOJ9FoGQeUMFZ4SWZsr30jlUYK
+
+    The Easiest Way to Memorize the Trigonometric Unit Circle
+    https://youtu.be/75dMcyCUo2g?list=PLybg94GvOJ9FoGQeUMFZ4SWZsr30jlUYK
+
+    Graphing Trigonometric Functions
+    https://youtu.be/8oEjxGjAeQI?list=PLybg94GvOJ9FoGQeUMFZ4SWZsr30jlUYK
+
+Sin
+    Sine Wave | Simple Explanation on a Giant or Ferris Wheel | Trigonometry | Learnability
+    https://youtu.be/OfuyQV4SN9c
+        (Visualization)
+        Unit Circle Visualized
+        https://www.youtube.com/shorts/-C11535Mlws
+
+        Sine Curve and the Unit Circle
+        https://www.youtube.com/watch?v=Q55T6LeTvsA
+
+Cos 
+    Cosine Wave | Simple Explanation on a Giant or Ferris Wheel | Trigonometry | Learnability
+    https://youtu.be/txgyHQq2_bc?list=PLXu24or6p6KM27XnOzs9-hm1W0_m7u0P-
+            (here we thinking hozizontally(remember what he said in the sine video) ....in 0.55 he said `in 5 minutes we are at the middle of the wheel.....here middle means horizontally middle` ....his video rotation is bit misleading ..... imagine it being  rotate right 90 and will understand better .....misleading video .....  genius )
+
+
+
+Trig Visualized: One Diagram to Rule them All (six trig functions in one diagram)
+https://youtu.be/dUkCgTOOpQ0 
+    optional 
+    
 
 
 
